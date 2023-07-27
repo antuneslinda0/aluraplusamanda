@@ -22,7 +22,7 @@ body {
 }
 
 .principal {
-    background-image: url("img/Background.png");
+    background-image: url("Background.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
@@ -77,12 +77,12 @@ body {
     margin: 0 10em;
 }
 
-.descricao__titulo {
+.descricao__titulo {index
     font-weight: 700;
     font-size: 48px;
     color: var(--branco-principal);
     margin-bottom: 0.1em;
-}
+}index
 
 .descricao__texto {
     color: var(--cinza-secundario);
@@ -98,7 +98,7 @@ body {
 }
 
 .dispositivos__lista {
-    display: flex;
+    display: flex;index
     justify-content: center;
     list-style-type: none;
     margin: 5em 0;
@@ -119,7 +119,7 @@ body {
 }
 
 .rodape {
-    text-align: center;
+    text-align: center;index
     margin: 5em 3em;
 }
 
